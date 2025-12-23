@@ -1,1 +1,2 @@
 azure-functions
+coverage>=7.4.0
